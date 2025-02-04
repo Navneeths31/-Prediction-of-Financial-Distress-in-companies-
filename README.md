@@ -1,5 +1,4 @@
-# AppliedMLProject
-Applied Machine Learning Project
+# Applied Machine Learning Project
 
 Team 8 Members: Sumanth, Sharath, Navneeth, Bentic 
 
